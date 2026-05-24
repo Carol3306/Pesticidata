@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "article_name": "A novel molecularly imprinted polymer composite based on polyaniline nanoparticles as sensitive sensors for parathion detection in the field",
+      "journal": "Food Control",
+      "publish_date": "2021-10-25",
+      "raw_publish_date": "2021-10-25",
+      "doi": "10.1016/j.foodcont.2021.108638",
+      "compound_detection": [
+        {
+          "compound_name": "parathion",
+          "detection_performance": {
+            "assay_name": "A novel molecularly imprinted polymer electrochemical sensor",
+            "sensitivity_ic50": "6.03 ng/mL",
+            "linear_range": "0.034–18.67 μM",
+            "limit_of_detection_lod": "0.011 μM"
+          },
+          "real_sample_detection": [
+            {
+              "sample_type": "Pakchoi",
+              "concentration_confirmed_via_instrumental_method": 0
+            },
+            {
+              "sample_type": "Radish",
+              "concentration_confirmed_via_instrumental_method": 0
+            },
+            {
+              "sample_type": "Lettuce",
+              "concentration_confirmed_via_instrumental_method": 0
+            },
+            {
+              "sample_type": "Brassica chinensis",
+              "concentration_confirmed_via_instrumental_method": 0
+            },
+            {
+              "sample_type": "Spinach",
+              "concentration_confirmed_via_instrumental_method": 0
+            },
+            {
+              "sample_type": "Cabbage",
+              "concentration_confirmed_via_instrumental_method": "HPLC, 3.09 μM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
